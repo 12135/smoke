@@ -26,7 +26,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.apiomat.nativemodule</groupId>
     <artifactId>gitmodule</artifactId>
-    <name>GitModule</name>
+    <name>GitiModule</name>
     <version>1.0.0</version>
 
     <properties>
